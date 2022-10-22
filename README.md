@@ -5,7 +5,6 @@ I am a third year Computer Science student with knowledge in Python, Golang and 
 <hr></hr>
 
 <br>
-
 ### Languages and Tools
 <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="Java" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
