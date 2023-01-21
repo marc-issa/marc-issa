@@ -1,6 +1,6 @@
 
 # Marc Issa
-<br>I am a third year Computer Science student with exellent knowledge in **Python**, **Golang** and **JavaScript** as well as excellent understanding of **Java**. **Laravel**, **PHP** and **Golang** are examples of backend expertise. I consider myself a team-player, a hard-working person and a quick learner.
+<br>As a third-year computer science student, I am passionate about developing innovative solutions to complex problems. My skills include programming in multiple languages, such as Java and Python, and working with both front-end and back-end technologies. I am also familiar with various software development methodologies and tools, such as Git. My goal is to use my skills and knowledge to create impactful and user-friendly technology. Check out my GitHub profile to see some of my projects and contributions.
 
 <hr></hr>
 
