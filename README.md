@@ -1,6 +1,6 @@
 
 # Marc Issa
-<br>As a third-year computer science student, I am passionate about developing innovative solutions to complex problems. My skills include programming in multiple languages, such as Java and Python, and working with both front-end and back-end technologies. I am also familiar with various software development methodologies and tools, such as Git. My goal is to use my skills and knowledge to create impactful and user-friendly technology. Check out my GitHub profile to see some of my projects and contributions.
+<br>I am a computer science student at the Lebanese American University with a passion for technology and a drive to learn and innovate. I am proficient in a range of programming languages, including Java, Python and Golang. I have experience in developing websites and applications, databases, and software. I have a strong understanding of algorithms and data structures. I am organized, detail-oriented and able to work independently or in a team environment. I am eager to take on new challenges and to continue learning and expanding my knowledge.
 
 <hr></hr>
 
