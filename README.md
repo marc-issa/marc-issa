@@ -1,6 +1,6 @@
 
 # Marc Issa
-<br>I am a computer science student at the Lebanese American University with a passion for technology and a drive to learn and innovate. I am proficient in a range of programming languages, including Java, Python and Golang. I have experience in developing websites and applications, databases, and software. I have a strong understanding of algorithms and data structures. I am organized, detail-oriented and able to work independently or in a team environment. I am eager to take on new challenges and to continue learning and expanding my knowledge.
+<br>I am a Technical Data Engineer at APGAR with a passion for technology and a drive to learn and innovate. I am proficient in a range of programming languages, including Java, Python and Golang. I have experience in developing websites, applications, databases, and software. I have a strong understanding of algorithms and data structures. I am organized, detail-oriented and able to work independently or in a team environment. I am eager to take on new challenges and to continue learning and expanding my knowledge.
 
 <hr></hr>
 
