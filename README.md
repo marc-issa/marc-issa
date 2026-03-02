@@ -29,7 +29,7 @@ I design and deliver scalable data solutions that support enterprise-grade migra
 
 ### Data & Analytics
 <p>
-<img align="left" alt="Power BI" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" />
+<img align="left" alt="Power BI" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
 <img align="left" alt="Azure" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="left" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
@@ -61,7 +61,9 @@ I design and deliver scalable data solutions that support enterprise-grade migra
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=marc-issa&show_icons=true&theme=gruvbox)
+![Marc's GitHub stats](https://github-readme-stats.vercel.app/api?username=marc-issa&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-issa&layout=compact&theme=gruvbox&hide_border=true)
 
 ---
 
