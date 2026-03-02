@@ -4,8 +4,6 @@ Technical Data Engineer | Data Platforms | Analytics Engineering | AI Integratio
 
 I design and deliver scalable data solutions that support enterprise-grade migration, validation, and reporting initiatives. Currently working at APGAR (client: L'Oréal), I specialize in data validation frameworks, Power BI reporting ecosystems, and modern data platform engineering.
 
-My focus is shifting toward building intelligent, AI-augmented data systems within fintech and high-growth environments. I am actively expanding into Microsoft Fabric, Azure Data Engineering, Databricks, and event-driven architectures.
-
 ---
 
 ## 🚀 What I Do
